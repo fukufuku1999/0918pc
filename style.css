@@ -1,0 +1,92 @@
+  .container {
+    text-align: center;
+    padding:0%;
+  }
+  
+  h1 {
+    /* 水平方向の中央揃え */
+    text-align: center;
+    font-size: 14px;
+    padding:2px;
+    margin:10px auto;     
+    border: 2px dotted rgb(0, 0, 0, 1);
+    border-radius: 5px;
+    background-color: rgba(131, 128, 128, 0.2);
+    color: rgb(0, 0, 0, 1);
+    width: 150px;
+
+  }
+
+  h2 {
+    /* 水平方向の中央揃え */
+    text-align: center;
+    font-size: 14px;
+    padding:2px;
+    margin:10px auto;     
+    border: 2px dotted rgb(0, 0, 0, 1);
+    border-radius: 5px;
+    background-color: rgba(131, 128, 128, 0.2);
+    color: rgb(0, 0, 0, 1);
+    width: 70px;
+  }
+
+  h3 {
+    /* 水平方向の中央揃え */
+    text-align: center;
+    font-size: 9px;
+    padding:1px;
+  }
+
+  h4 {
+    /* 水平方向の中央揃え */
+    text-align: center;
+    font-size: 12px;
+    margin:auto;
+    padding:1px;
+  }
+
+  h5 {
+    /* 水平方向の中央揃え */
+    text-align: center;
+    font-size: 12px;
+    padding:1px;
+  }
+
+  h6 {
+    /* 水平方向の中央揃え */
+    text-align: center;
+    font-size: 12px;
+    margin:0;
+    padding:0;
+  }
+
+  p {
+    /* 水平方向の中央揃え */
+    /*text-align: center;*/
+    text-align: center;
+    font-size: 12px;
+    margin:0;
+    padding:0;
+  }
+
+
+
+
+
+
+
+
+    
+
+
+  div {
+    margin: auto;
+    text-align: center;
+    font-size: 12px;
+    width: 350px;
+    }
+
+  .nodisplay_box {
+
+    display: none;
+}
